@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DiqueMCJedis">
+    <output-path>$PROJECT_DIR$/bin</output-path>
+    <root id="archive" name="DiqueMCJedis.jar">
+      <element id="module-output" name="diquemc-jedis" />
+      <element id="file-copy" path="$PROJECT_DIR$/diquemc-jedis/bungee.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/diquemc-jedis/plugin.yml" />
+      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-jedis/compiledlib" />
+    </root>
+  </artifact>
+</component>
