@@ -2,6 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diquemc-imagemaps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diquemc-jedis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diquemc-nick" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diquemc-skin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diquemc-titlemanager" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/diquemc-utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/diquemc-votes" vcs="Git" />
   </component>
 </project>

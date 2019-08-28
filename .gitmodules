@@ -13,3 +13,9 @@
 [submodule "diquemc-imagemaps"]
 	path = diquemc-imagemaps
 	url = git@bitbucket.org:diquemc/diquemc-imagemaps.git
+[submodule "diquemc-votes"]
+	path = diquemc-votes
+	url = git@bitbucket.org:diquemc/diquemc-votes.git
+[submodule "diquemc-titlemanager"]
+	path = diquemc-titlemanager
+	url = git@bitbucket.org:diquemc/diquemc-titlemanager.git
