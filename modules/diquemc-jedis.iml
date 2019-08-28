@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../diquemc-jedis">
+      <sourceFolder url="file://$MODULE_DIR$/../diquemc-jedis/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../diquemc-jedis/compiledlib" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="spigot-1.8.8" level="project" />
+    <orderEntry type="library" name="spigot-1.14.4" level="project" />
+    <orderEntry type="library" name="BungeeCord" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../diquemc-jedis/compiledlib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

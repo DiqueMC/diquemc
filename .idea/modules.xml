@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/diquemc-titlemanager.iml" filepath="$PROJECT_DIR$/modules/diquemc-titlemanager.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/diquemc-utils.iml" filepath="$PROJECT_DIR$/modules/diquemc-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/diquemc-votes.iml" filepath="$PROJECT_DIR$/modules/diquemc-votes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sign-logger.iml" filepath="$PROJECT_DIR$/modules/sign-logger.iml" />
     </modules>
   </component>
 </project>

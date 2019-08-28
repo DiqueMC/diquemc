@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DiqueMCTitleManager">
+    <output-path>$PROJECT_DIR$/bin</output-path>
+    <root id="archive" name="DiqueMCTitleManager.jar">
+      <element id="module-output" name="diquemc-titlemanager" />
+      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-titlemanager/resources" />
+    </root>
+  </artifact>
+</component>
