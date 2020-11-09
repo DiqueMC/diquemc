@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/OpenInv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/auctions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chairs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/diquemc-chat" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/diquemc-imagemaps" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/diquemc-jedis" vcs="Git" />
