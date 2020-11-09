@@ -4,14 +4,16 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../diquemc-chat">
       <sourceFolder url="file://$MODULE_DIR$/../diquemc-chat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../diquemc-chat/fanciful/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="BungeeCord" level="project" />
-    <orderEntry type="library" name="spigot-1.8.8" level="project" />
-    <orderEntry type="library" name="spigot-1.14.4" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.9" level="project" />
     <orderEntry type="module" module-name="diquemc-jedis" />
     <orderEntry type="module" module-name="diquemc-utils" />
     <orderEntry type="library" name="Vault" level="project" />
+    <orderEntry type="module" module-name="fanciful" />
+    <orderEntry type="library" name="BungeeCord" level="project" />
+    <orderEntry type="library" name="spigot-latest" level="project" />
   </component>
 </module>

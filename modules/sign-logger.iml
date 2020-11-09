@@ -7,8 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="spigot-1.8.8" level="project" />
-    <orderEntry type="library" name="spigot-1.14.4" level="project" />
     <orderEntry type="module" module-name="diquemc-chat" />
+    <orderEntry type="module" module-name="diquemc-utils" />
+    <orderEntry type="library" name="spigot-latest" level="project" />
   </component>
 </module>

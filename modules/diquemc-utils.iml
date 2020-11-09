@@ -5,13 +5,14 @@
     <content url="file://$MODULE_DIR$/../diquemc-utils">
       <sourceFolder url="file://$MODULE_DIR$/../diquemc-utils/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../diquemc-utils/files" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../diquemc-utils/fanciful/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="spigot-1.14.4" level="project" />
     <orderEntry type="library" name="commons-lang3-3.9" level="project" />
-    <orderEntry type="library" name="spigot-1.8.8" level="project" />
     <orderEntry type="module" module-name="diquemc-jedis" />
     <orderEntry type="library" name="BungeeCord" level="project" />
+    <orderEntry type="library" name="spigot-latest" level="project" />
+    <orderEntry type="library" name="spigot-1.8.8" level="project" />
   </component>
 </module>

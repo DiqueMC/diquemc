@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OpenInv">
+    <output-path>$PROJECT_DIR$/bin</output-path>
+    <root id="archive" name="OpenInv.jar">
+      <element id="module-output" name="OpenInv" />
+      <element id="dir-copy" path="$PROJECT_DIR$/OpenInv/plugin/src/main/resources" />
+    </root>
+  </artifact>
+</component>

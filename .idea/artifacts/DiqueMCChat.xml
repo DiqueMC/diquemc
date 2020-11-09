@@ -4,6 +4,8 @@
     <root id="archive" name="DiqueMCChat.jar">
       <element id="module-output" name="diquemc-chat" />
       <element id="dir-copy" path="$PROJECT_DIR$/diquemc-chat/files" />
+      <element id="module-output" name="fanciful" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/diquemc-utils/locallib/commons-lang3-3.9.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

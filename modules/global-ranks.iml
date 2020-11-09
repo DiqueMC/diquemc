@@ -2,13 +2,13 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../diquemc-nick">
-      <sourceFolder url="file://$MODULE_DIR$/../diquemc-nick/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../global-ranks">
+      <sourceFolder url="file://$MODULE_DIR$/../global-ranks/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="diquemc-jedis" />
     <orderEntry type="module" module-name="diquemc-utils" />
+    <orderEntry type="library" name="LuckPerms-Bukkit" level="project" />
     <orderEntry type="library" name="spigot-latest" level="project" />
   </component>
 </module>

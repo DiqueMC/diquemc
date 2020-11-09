@@ -2,14 +2,14 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../diquemc-titlemanager">
-      <sourceFolder url="file://$MODULE_DIR$/../diquemc-titlemanager/src" isTestSource="false" />
-    </content>
+    <content url="file://$MODULE_DIR$/../skywars" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="diquemc-jedis" />
     <orderEntry type="module" module-name="diquemc-utils" />
-    <orderEntry type="library" name="spigot-latest" level="project" />
+    <orderEntry type="library" name="Vault" level="project" />
+    <orderEntry type="library" name="Multiverse-Core-2.5" level="project" />
+    <orderEntry type="library" name="EssentialsX" level="project" />
+    <orderEntry type="library" name="WorldEdit-para-1.8" level="project" />
     <orderEntry type="library" name="spigot-1.8.8" level="project" />
   </component>
 </module>

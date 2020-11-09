@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../OpenInv">
+      <sourceFolder url="file://$MODULE_DIR$/../OpenInv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../OpenInv/plugin/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../OpenInv/internal/v1_8_R3/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../OpenInv/api/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../OpenInv/common/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../OpenInv/internal/v1_14_R1/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../OpenInv/internal/v1_15_R1/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../OpenInv/internal/v1_16_R1/src/main/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="annotations-12.0" level="project" />
+    <orderEntry type="library" name="spigot-latest" level="project" />
+    <orderEntry type="library" name="spigot-1.8.8" level="project" />
+  </component>
+</module>

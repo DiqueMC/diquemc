@@ -1,27 +1,42 @@
 [submodule "diquemc-utils"]
-	path = diquemc-utils
-	url = git@bitbucket.org:hector22x/diquemc-utils.git
+    path = diquemc-utils
+    url = git@bitbucket.org:hector22x/diquemc-utils.git
 [submodule "diquemc-jedis"]
-	path = diquemc-jedis
-	url = git@bitbucket.org:hector22x/diquemc-jedis.git
+    path = diquemc-jedis
+    url = git@bitbucket.org:hector22x/diquemc-jedis.git
 [submodule "diquemc-nick"]
-	path = diquemc-nick
-	url = git@bitbucket.org:diquemc/diquemc-nick.git
+    path = diquemc-nick
+    url = git@bitbucket.org:diquemc/diquemc-nick.git
 [submodule "diquemc-skin"]
-	path = diquemc-skin
-	url = git@bitbucket.org:diquemc/diquemc-skin.git
+    path = diquemc-skin
+    url = git@bitbucket.org:diquemc/diquemc-skin.git
 [submodule "diquemc-imagemaps"]
-	path = diquemc-imagemaps
-	url = git@bitbucket.org:diquemc/diquemc-imagemaps.git
+    path = diquemc-imagemaps
+    url = git@bitbucket.org:diquemc/diquemc-imagemaps.git
 [submodule "diquemc-votes"]
-	path = diquemc-votes
-	url = git@bitbucket.org:diquemc/diquemc-votes.git
+    path = diquemc-votes
+    url = git@bitbucket.org:diquemc/diquemc-votes.git
 [submodule "diquemc-titlemanager"]
-	path = diquemc-titlemanager
-	url = git@bitbucket.org:diquemc/diquemc-titlemanager.git
+    path = diquemc-titlemanager
+    url = git@bitbucket.org:diquemc/diquemc-titlemanager.git
 [submodule "diquemc-chat"]
-	path = diquemc-chat
-	url = git@bitbucket.org:diquemc/diquemc-chat.git
+    path = diquemc-chat
+    url = git@bitbucket.org:diquemc/diquemc-chat.git
 [submodule "sign-logger"]
-	path = sign-logger
-	url = git@bitbucket.org:diquemc/sign-logger.git
+    path = sign-logger
+    url = git@bitbucket.org:diquemc/sign-logger.git
+[submodule "skywars"]
+    path = skywars
+    url = git@bitbucket.org:diquemc/skywars.git
+[submodule "global-ranks"]
+    path = global-ranks
+    url = git@bitbucket.org:diquemc/global-ranks.git
+[submodule "auctions"]
+	path = auctions
+	url = git@bitbucket.org:diquemc/auctions.git
+[submodule "OpenInv"]
+	path = OpenInv
+	url = git@github.com:lishid/OpenInv.git
+[submodule "chairs"]
+	path = chairs
+	url = git@bitbucket.org:hector22x/chairs.git
