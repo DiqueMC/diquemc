@@ -29,6 +29,7 @@
         <module>diquemc-utils</module>
         <module>diquemc-nick</module>
         <module>diquemc-imagemaps</module>
+        <module>diquemc-titlemanager</module>
     </modules>
     <build>
         <defaultGoal>clean package</defaultGoal>
@@ -77,6 +78,20 @@
                 <artifactId>bungeecord-api</artifactId>
                 <version>1.20-R0.3-SNAPSHOT</version>
                 <type>javadoc</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.diquemc</groupId>
+                <artifactId>diquemc-jedis</artifactId>
+                <version>${project.version}</version>
+                <type>jar</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.diquemc</groupId>
+                <artifactId>diquemc-utils</artifactId>
+                <version>${project.version}</version>
+                <type>jar</type>
                 <scope>provided</scope>
             </dependency>
         </dependencies>

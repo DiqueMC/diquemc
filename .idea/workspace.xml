@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="860ab382-0c2c-4ed8-b179-18fc472e8466" name="maven" comment="- Compiling nick plugin using maven">
-      <change afterPath="$PROJECT_DIR$/diquemc-imagemaps/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DiqueMCImageMaps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DiqueMCImageMaps.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DiqueMCNick.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DiqueMCNick.xml" afterDir="false" />
+    <list default="true" id="860ab382-0c2c-4ed8-b179-18fc472e8466" name="maven" comment="- Compiling imagemaps plugin using maven">
+      <change afterPath="$PROJECT_DIR$/diquemc-titlemanager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DiqueMCTitleManager.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DiqueMCTitleManager.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps/files/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps/src/main/resources/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps/files/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps/src/com/diquemc/imagemaps/GetMapCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps/src/main/java/com/diquemc/imagemaps/GetMapCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps/src/com/diquemc/imagemaps/ImageMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps/src/main/java/com/diquemc/imagemaps/ImageMaps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps/src/com/diquemc/imagemaps/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps/src/main/java/com/diquemc/imagemaps/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps/src/com/diquemc/imagemaps/MapListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps/src/main/java/com/diquemc/imagemaps/MapListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/diquemc-imagemaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-imagemaps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/diquemc-utils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-utils.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-nick/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-nick/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/TitleManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/TitleManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/commands/GeneralCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/commands/GeneralCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/commands/TitleCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/commands/TitleCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/listeners/LoginListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/listeners/LoginListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/listeners/RedisListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/listeners/RedisListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/versions/ComponentsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/versions/ComponentsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/versions/NewComponentsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/versions/NewComponentsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <list id="cb8949f5-c5c3-4097-b10c-d31234753599" name="Default Changelist" comment="Adding maven">
@@ -46,9 +48,6 @@
       <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/SkinFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/SkinFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_16_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_20_R3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_8_R3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/versions/ComponentsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/versions/ComponentsHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/versions/OldComponentsHandler.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/global-ranks" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/global-ranks/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/global-ranks/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/plugin.yml" afterDir="false" />
@@ -68,7 +67,6 @@
       <change beforePath="$PROJECT_DIR$/modules/auctions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/auctions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/chairs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/chairs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-chat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-chat.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/diquemc-nick.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-nick.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-skin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-skin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-titlemanager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-titlemanager.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-votes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-votes.iml" afterDir="false" />
@@ -108,22 +106,23 @@
     <file path="$PROJECT_DIR$/.idea/workspace.xml">
       <ranges>
         <range start1="2" end1="2" start2="2" end2="5" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
-        <range start1="3" end1="4" start2="6" end2="10" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="5" end1="9" start2="11" end2="20" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="62" end1="63" start2="73" end2="73" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="66" end1="67" start2="76" end2="76" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="95" end1="96" start2="104" end2="105" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="104" end1="114" start2="113" end2="129" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="144" end1="145" start2="159" end2="160" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="148" end1="149" start2="163" end2="164" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="161" end1="161" start2="176" end2="177" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="165" end1="166" start2="181" end2="181" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="168" end1="168" start2="183" end2="184" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="172" end1="173" start2="188" end2="188" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="265" end1="267" start2="280" end2="280" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="288" end1="289" start2="301" end2="301" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="290" end1="291" start2="302" end2="306" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="292" end1="317" start2="307" end2="307" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
+        <range start1="3" end1="7" start2="6" end2="9" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="8" end1="17" start2="10" end2="22" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="48" end1="51" start2="53" end2="53" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="70" end1="71" start2="72" end2="72" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="110" end1="126" start2="111" end2="129" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="156" end1="157" start2="159" end2="160" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="160" end1="161" start2="163" end2="164" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="173" end1="173" start2="176" end2="177" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="177" end1="178" start2="181" end2="181" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="180" end1="180" start2="183" end2="184" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="184" end1="185" start2="188" end2="188" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="277" end1="279" start2="280" end2="280" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="293" end1="294" start2="294" end2="294" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="298" end1="299" start2="298" end2="298" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="301" end1="301" start2="300" end2="301" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="302" end1="303" start2="302" end2="306" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="304" end1="329" start2="307" end2="307" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
       </ranges>
     </file>
   </component>
@@ -154,11 +153,11 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/hector/projects/diquemc/diquemc-imagemaps",
+    "last_opened_file_path": "/Users/hector/projects/diquemc/diquemc-titlemanager",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "ruby.rails.projectView.checked": "true",
@@ -171,18 +170,18 @@
       <recent name="com.diquemc.GlobalRanks.manager" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/diquemc-titlemanager" />
       <recent name="$PROJECT_DIR$/diquemc-imagemaps" />
       <recent name="$PROJECT_DIR$/diquemc-nick" />
       <recent name="$PROJECT_DIR$/diquemc-utils" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/diquemc-utils/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/diquemc-titlemanager/src/main" />
       <recent name="$PROJECT_DIR$/diquemc-imagemaps/src/main/resources" />
       <recent name="$PROJECT_DIR$/diquemc-utils/src/main" />
       <recent name="$PROJECT_DIR$/diquemc-utils/src/resources" />
       <recent name="$PROJECT_DIR$/plugins" />
-      <recent name="$PROJECT_DIR$/diquemc-jedis/src/main/resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.diquemc.chat.bungee.command" />
@@ -275,8 +274,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Command autocomplete doesn't return full list when no matches are found" />
-    <MESSAGE value="Adjustments and cleanup" />
     <MESSAGE value="I guess, there're changes" />
     <MESSAGE value="Added child permission for admin to have nick.&#10;Changed how a sample nick is shown" />
     <MESSAGE value="Code cleanup and improvements. Started refactors and inclusion of tempmute function" />
@@ -291,16 +288,18 @@
     <MESSAGE value="Now the plugin can be built using maven" />
     <MESSAGE value="Refactor: muteinfo" />
     <MESSAGE value="- Added maven support&#10;- Compiling jedis plugin using maven" />
-    <MESSAGE value="Adding maven" />
     <MESSAGE value="Updated to 1.20" />
     <MESSAGE value="- Clean unused libraries (now depending on them via maven)&#10;- updated groupId" />
     <MESSAGE value="maven" />
     <MESSAGE value="- Maven config cleanup. Moved some common settings to parent" />
-    <MESSAGE value="Changes to be able to build using maven" />
     <MESSAGE value="Updated gitignore" />
     <MESSAGE value="- Compiling utils plugin using maven" />
+    <MESSAGE value="Changes to be able to build using maven" />
     <MESSAGE value="- Compiling nick plugin using maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Compiling nick plugin using maven" />
+    <MESSAGE value="- Compiling imagemaps plugin using maven" />
+    <MESSAGE value="Adding maven" />
+    <MESSAGE value="- Removed OldComponentsHandler" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Removed OldComponentsHandler" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
   </component>
   <component name="WindowStateProjectService">
