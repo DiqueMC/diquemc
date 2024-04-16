@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="SignLogger">
-    <output-path>$PROJECT_DIR$/bin</output-path>
-    <root id="archive" name="SignLogger.jar">
-      <element id="module-output" name="sign-logger" />
-      <element id="file-copy" path="$PROJECT_DIR$/sign-logger/src/main/resources/plugin.yml" />
-    </root>
-  </artifact>
-</component>

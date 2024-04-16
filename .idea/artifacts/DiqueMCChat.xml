@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="DiqueMCChat">
-    <output-path>$PROJECT_DIR$/bin</output-path>
-    <root id="archive" name="DiqueMCChat.jar">
-      <element id="module-output" name="diquemc-chat" />
-      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-chat/src/main/resources" />
-    </root>
-  </artifact>
-</component>

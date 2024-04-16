@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="DiqueMCSkin">
-    <output-path>$PROJECT_DIR$/bin</output-path>
-    <root id="archive" name="DiqueMCSkin.jar">
-      <element id="module-output" name="diquemc-skin" />
-      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-skin/files" />
-    </root>
-  </artifact>
-</component>

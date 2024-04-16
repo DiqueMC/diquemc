@@ -35,6 +35,7 @@
         <module>diquemc-chat/fanciful</module>
         <module>diquemc-chat</module>
         <module>sign-logger</module>
+        <module>auctions</module>
     </modules>
     <build>
         <defaultGoal>clean package</defaultGoal>

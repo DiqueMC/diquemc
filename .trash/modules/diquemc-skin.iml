@@ -13,16 +13,16 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../diquemc-votes">
-      <sourceFolder url="file://$MODULE_DIR$/../diquemc-votes/src/main/java" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../diquemc-skin">
+      <excludeFolder url="file://$MODULE_DIR$/../diquemc-skin/src" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="diquemc-utils" />
-    <orderEntry type="module" module-name="diquemc-nick" />
+    <orderEntry type="library" name="BungeeCord" level="project" />
+    <orderEntry type="library" name="authlib-6.0.52" level="project" />
     <orderEntry type="library" name="paper-mojmap-1.20.4-484" level="project" />
     <orderEntry type="library" name="paper-1.20.4-484" level="project" />
     <orderEntry type="library" name="spigot-api-1.20.4-R0.1-SNAPSHOT-shaded" level="project" />
-    <orderEntry type="module" module-name="diquemc-jedis" />
   </component>
 </module>
