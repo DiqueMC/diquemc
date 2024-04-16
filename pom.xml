@@ -32,6 +32,8 @@
         <module>diquemc-titlemanager</module>
         <module>global-ranks</module>
         <module>diquemc-votes</module>
+        <module>diquemc-chat/fanciful</module>
+        <module>diquemc-chat</module>
     </modules>
     <build>
         <defaultGoal>clean package</defaultGoal>
