@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/bin</output-path>
     <root id="archive" name="DiqueMCImageMaps.jar">
       <element id="module-output" name="diquemc-imagemaps" />
-      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-imagemaps/files" />
+      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-imagemaps/src/main/resources" />
     </root>
   </artifact>
 </component>

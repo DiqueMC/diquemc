@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/bin</output-path>
     <root id="archive" name="DiqueMCNick.jar">
       <element id="module-output" name="diquemc-nick" />
-      <element id="file-copy" path="$PROJECT_DIR$/diquemc-nick/plugin.yml" />
+      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-nick/src/main/resources" />
     </root>
   </artifact>
 </component>

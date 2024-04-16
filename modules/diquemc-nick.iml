@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>BUNGEECORD</platformType>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+        <projectReimportVersion>1</projectReimportVersion>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../diquemc-nick">
-      <sourceFolder url="file://$MODULE_DIR$/../diquemc-nick/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../diquemc-nick/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="diquemc-jedis" />
     <orderEntry type="module" module-name="diquemc-utils" />
-    <orderEntry type="library" name="spigot-latest" level="project" />
+    <orderEntry type="library" name="paper-mojmap-1.20.4-484" level="project" />
+    <orderEntry type="library" name="paper-1.20.4-484" level="project" />
+    <orderEntry type="library" name="spigot-api-1.20.4-R0.1-SNAPSHOT-shaded" level="project" />
+    <orderEntry type="module" module-name="diquemc-jedis" />
   </component>
 </module>
