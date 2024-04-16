@@ -31,6 +31,7 @@
         <module>diquemc-imagemaps</module>
         <module>diquemc-titlemanager</module>
         <module>global-ranks</module>
+        <module>diquemc-votes</module>
     </modules>
     <build>
         <defaultGoal>clean package</defaultGoal>
@@ -92,6 +93,13 @@
             <dependency>
                 <groupId>com.diquemc</groupId>
                 <artifactId>diquemc-utils</artifactId>
+                <version>${project.version}</version>
+                <type>jar</type>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.diquemc</groupId>
+                <artifactId>diquemc-nick</artifactId>
                 <version>${project.version}</version>
                 <type>jar</type>
                 <scope>provided</scope>

@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/bin</output-path>
     <root id="archive" name="DiqueMCVotes.jar">
       <element id="module-output" name="diquemc-votes" />
-      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-votes/resources" />
+      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-votes/src/main/resources" />
     </root>
   </artifact>
 </component>
