@@ -3,8 +3,8 @@
     <output-path>$PROJECT_DIR$/bin</output-path>
     <root id="archive" name="DiqueMCUtils.jar">
       <element id="module-output" name="diquemc-utils" />
-      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-utils/files" />
       <element id="extracted-dir" path="$PROJECT_DIR$/diquemc-utils/locallib/commons-lang3-3.9.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/diquemc-utils/src/main/resources" />
     </root>
   </artifact>
 </component>

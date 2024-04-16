@@ -1,152 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb8949f5-c5c3-4097-b10c-d31234753599" name="Default Changelist" comment="Refactor: muteinfo">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Auctions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/BetterChairs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/GlobalRanks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/OpenInv.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SkyWars.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/EssentialsX.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/LuckPerms_Bukkit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Multiverse_Core_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/WorldEdit_para_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/annotations_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_pool2_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jedis_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/luckpermsapi_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/spigot_latest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenInv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chairs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/command/GetSkinHeadCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/ChatColor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/ChatUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/BanCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/ColorsCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/UpdateFirstLoginCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/listener/DeathListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global-ranks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/OpenInv.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/auctions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/chairs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/fanciful.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/global-ranks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/skywars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skywars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DiqueMCChat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DiqueMCChat.xml" afterDir="false" />
+    <list default="true" id="860ab382-0c2c-4ed8-b179-18fc472e8466" name="maven" comment="maven">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/googlecode_json_simple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/redis_clients_jedis.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/DiqueMCJedis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DiqueMCJedis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/hector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/hector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_1_14_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_1_8_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/spigot_1_8_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DiqueMCUtils.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DiqueMCUtils.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_pool2_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jedis_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/files/bungee.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/resources/bungee.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/files/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/files/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/locallib/commons-lang3-3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/helper/DiqueMCCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/helper/DiqueMCCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/helper/DiqueMCCommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/helper/DiqueMCCommandExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/helper/DiqueMCPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/helper/DiqueMCPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/ChatColor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/ChatColor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/ChatUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/ChatUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/DiqueMCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/DiqueMCUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/TableGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/TableGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/bungee/DiqueMCUtilsBungee.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/bungee/DiqueMCUtilsBungee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/BanCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/BanCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/CheckSleepingCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/CheckSleepingCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/ColorsCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/ColorsCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/CommandSyncCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/CommandSyncCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/GSeenCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/GSeenCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/GSeenIPCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/GSeenIPCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/GeneralCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/GeneralCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/ItemInfoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/ItemInfoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/LinksCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/LinksCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/LobbyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/LobbyCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/PingCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/PingCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SetLoreCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/SetLoreCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SetNameCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/SetNameCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SignEditCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/SignEditCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/UpdateFirstLoginCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/UpdateFirstLoginCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/listener/DeathListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/listener/DeathListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/listener/LoginListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/listener/LoginListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/listener/SignListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/listener/SignListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/CommandSyncManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/manager/CommandSyncManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/PlayerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/manager/PlayerManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/SignManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/manager/SignManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/TransportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/manager/TransportManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/version/Fallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/version/Fallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/version/VersionsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/version/VersionsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/version/v1_20_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/version/v1_20_R3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/me/winterguardian/jsonconverter/JsonConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/me/winterguardian/jsonconverter/JsonConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/me/winterguardian/jsonconverter/JsonMessageSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/me/winterguardian/jsonconverter/JsonMessageSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/diquemc-jedis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-jedis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <list id="cb8949f5-c5c3-4097-b10c-d31234753599" name="Default Changelist" comment="Adding maven">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/authlib_6_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/paper_1_20_4_484.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/paper_mojmap_1_20_4_484.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spigot_api_1_20_4_R0_1_SNAPSHOT_shaded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chairs/src/net/blackscarx/betterchairs/NMSManager/NMS_v1_18_R2/CustomArmorStand_18_R2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Auctions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Auctions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/OpenInv.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/OpenInv.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/WorldEdit_para_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_1_8_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spigot_latest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OpenInv/internal/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_15_R1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_15_R1/src/main/java/com/lishid/openinv/internal/v1_15_R1/AnySilentContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_15_R1/src/main/java/com/lishid/openinv/internal/v1_15_R1/PlayerDataManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_15_R1/src/main/java/com/lishid/openinv/internal/v1_15_R1/SpecialEnderChest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_15_R1/src/main/java/com/lishid/openinv/internal/v1_15_R1/SpecialPlayerInventory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_16_R1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_16_R1/src/main/java/com/lishid/openinv/internal/v1_16_R1/AnySilentContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_16_R1/src/main/java/com/lishid/openinv/internal/v1_16_R1/PlayerDataManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_16_R1/src/main/java/com/lishid/openinv/internal/v1_16_R1/SpecialEnderChest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_16_R1/src/main/java/com/lishid/openinv/internal/v1_16_R1/SpecialPlayerInventory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_16_R2/src/main/java/com/lishid/openinv/internal/v1_16_R2/AnySilentContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/OpenInv/internal/v1_16_R2/src/main/java/com/lishid/openinv/internal/v1_16_R2/AnySilentContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_16_R2/src/main/java/com/lishid/openinv/internal/v1_16_R2/PlayerDataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/OpenInv/internal/v1_16_R2/src/main/java/com/lishid/openinv/internal/v1_16_R2/PlayerDataManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_16_R2/src/main/java/com/lishid/openinv/internal/v1_16_R2/SpecialEnderChest.java" beforeDir="false" afterPath="$PROJECT_DIR$/OpenInv/internal/v1_16_R2/src/main/java/com/lishid/openinv/internal/v1_16_R2/SpecialEnderChest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/internal/v1_16_R2/src/main/java/com/lishid/openinv/internal/v1_16_R2/SpecialPlayerInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/OpenInv/internal/v1_16_R2/src/main/java/com/lishid/openinv/internal/v1_16_R2/SpecialPlayerInventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenInv/plugin/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/OpenInv/plugin/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auctions" beforeDir="false" afterPath="$PROJECT_DIR$/auctions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auctions/src/main/java/com/sainttx/auctions/command/AuctionCommandHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/auctions/src/main/java/com/sainttx/auctions/command/AuctionCommandHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auctions/src/main/java/com/sainttx/auctions/command/subcommand/StartCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/auctions/src/main/java/com/sainttx/auctions/command/subcommand/StartCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auctions/src/main/java/com/sainttx/auctions/structure/messages/handler/TextualMessageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/auctions/src/main/java/com/sainttx/auctions/structure/messages/handler/TextualMessageHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenInv" beforeDir="false" afterPath="$PROJECT_DIR$/OpenInv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chairs" beforeDir="false" afterPath="$PROJECT_DIR$/chairs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chairs/src/net/blackscarx/betterchairs/ChairsPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/chairs/src/net/blackscarx/betterchairs/ChairsPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chairs/src/net/blackscarx/betterchairs/NMSManager/NMS_V1_16_R2/CustomArmorStand_16_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/chairs/src/net/blackscarx/betterchairs/NMSManager/NMS_V1_16_R3/CustomArmorStand_16_R3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chairs/src/net/blackscarx/betterchairs/NMSManager/NMS_V1_16_R2/v1_16_R2.java" beforeDir="false" afterPath="$PROJECT_DIR$/chairs/src/net/blackscarx/betterchairs/NMSManager/NMS_V1_16_R3/v1_16_R3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/ChatChannelInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/ChatChannelInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/ChatHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/ChatHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/Consts.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/Consts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/DiqueMCChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/DiqueMCChat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/MessageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/MessageProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/bungee/ChatClientBungee.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/bungee/ChatClientBungee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/bungee/ChatServerBungee.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/bungee/ChatServerBungee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/bungee/DiqueMCChatBungee.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/bungee/DiqueMCChatBungee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/bungee/command/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/bungee/command/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/bungee/command/Reply.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/bungee/command/Reply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/BroadcastCommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/BroadcastCommandExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/ChatColorExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/ChatColorExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/ChatCommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/ChatCommandExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/ChatReloadCommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/ChatReloadCommandExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/EmojiExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/EmojiExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/MuteInfoCommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/MuteInfoCommandExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/SpyCommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/SpyCommandExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/TellMeCommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/TellMeCommandExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/TellMeRawCommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/command/TellMeRawCommandExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/core/ChatServerBukkit.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/core/ChatServerBukkit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/listeners/AutoBroadcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/chat/listeners/AutoBroadcast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/util/LogHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-chat/src/com/diquemc/util/LogHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps/src/com/diquemc/imagemaps/GetMapCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps/src/com/diquemc/imagemaps/GetMapCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-jedis" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-jedis" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-jedis/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-jedis/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-nick" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-nick" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-nick/src/com/diquemc/nick/DiqueMCNick.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-nick/src/com/diquemc/nick/DiqueMCNick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-nick/src/com/diquemc/nick/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-nick/src/com/diquemc/nick/Messages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-nick/src/com/diquemc/nick/command/RefreshNicksCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-nick/src/com/diquemc/nick/command/RefreshNicksCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-nick/src/com/diquemc/nick/command/SetNickCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-nick/src/com/diquemc/nick/command/SetNickCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-nick/src/com/diquemc/nick/manager/NickManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-nick/src/com/diquemc/nick/manager/NickManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chairs/src/net/blackscarx/betterchairs/NMSManager/NMS_V1_16_R3/CustomArmorStand_16_R3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chairs/src/net/blackscarx/betterchairs/NMSManager/NMS_V1_16_R3/v1_16_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/chairs/src/net/blackscarx/betterchairs/NMSManager/NMS_v1_18_R2/v1_18_R2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diquemc-skin" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/files/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/files/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/DiqueMCSkin.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/DiqueMCSkin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/JedisGate.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/JedisGate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/Skin.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/Skin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/bungee/listeners/JedisListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/bungee/listeners/JedisListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/command/GetSkinCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/command/GetSkinCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/command/MigrateSkinsCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/command/MigrateSkinsCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/command/RemoveSkinCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/command/RemoveSkinCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/command/SetSkinCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/command/SetSkinCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/listeners/JedisListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/listeners/JedisListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/SkinFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/SkinFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_14_R1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_15_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_16_R3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_8_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_8_R3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_16_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_20_R3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_8_R3.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/diquemc-titlemanager" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/TitleManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/TitleManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/commands/GeneralCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/commands/GeneralCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/commands/TitleCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/commands/TitleCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/files/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/files/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/helper/DiqueMCCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/helper/DiqueMCCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/ChatColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/DiqueMCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/DiqueMCUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/CheckSleepingCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/CheckSleepingCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/GSeenCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/GSeenCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/LinksCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/LinksCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/LobbyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/LobbyCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/PingCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/PingCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SetLoreCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SetLoreCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SetNameCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SetNameCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SignEditCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SignEditCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/CommandSyncManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/CommandSyncManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/PlayerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/PlayerManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/version/VersionsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/version/VersionsHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/version/v1_15_R1.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/version/v1_16_R3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-votes" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-votes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-votes/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-votes/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-votes/src/com/diquemc/votes/VoteTopCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-votes/src/com/diquemc/votes/VoteTopCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-votes/src/com/diquemc/votes/Votes.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-votes/src/com/diquemc/votes/Votes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-votes/src/com/diquemc/votes/VotesCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-votes/src/com/diquemc/votes/VotesCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/versions/ComponentsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/versions/ComponentsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/versions/OldComponentsHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/global-ranks/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/global-ranks/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/plugin.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/GlobalConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/GlobalConfig.java" afterDir="false" />
@@ -161,31 +103,23 @@
       <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/SetRankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/SetRankCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/manager/RankManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/manager/RankManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/utils/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/OpenInv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/OpenInv.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/auctions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/auctions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/chairs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/chairs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-chat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-chat.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-imagemaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-imagemaps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/diquemc-jedis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-jedis.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-nick.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-nick.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-skin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-skin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-titlemanager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-titlemanager.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-utils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-utils.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-votes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-votes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/fanciful.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/fanciful.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/global-ranks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/global-ranks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/sign-logger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/sign-logger.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sign-logger" beforeDir="false" afterPath="$PROJECT_DIR$/sign-logger" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sign-logger/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sign-logger/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sign-logger/src/com/diquemc/sign/SLBlockListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/sign-logger/src/com/diquemc/sign/SLBlockListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/commands/StartCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/commands/StartCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/config/PluginConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/config/PluginConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/skywars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/skywars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skywars" beforeDir="false" afterPath="$PROJECT_DIR$/skywars" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/controllers/GlobalScoreboardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/controllers/GlobalScoreboardController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/controllers/KitController.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/controllers/KitController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/database/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/storage/SQLStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/storage/SQLStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/utilities/CraftBukkitUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/utilities/CraftBukkitUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/utilities/ItemUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/utilities/ItemUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/utilities/ItemUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/utilities/ItemUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/utilities/Messaging.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/utilities/Messaging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/utilities/PlayerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/skywars/src/com/mooglemods/wickedskywars/utilities/PlayerUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,43 +140,102 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/chairs" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/diquemc-utils" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/BanCommand.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="5" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
+        <range start1="3" end1="41" start2="6" end2="9" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="42" end1="45" start2="10" end2="79" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="46" end1="47" start2="80" end2="80" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="49" end1="69" start2="82" end2="84" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="70" end1="105" start2="85" end2="87" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="106" end1="117" start2="88" end2="88" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="118" end1="121" start2="89" end2="91" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="122" end1="149" start2="92" end2="95" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="163" end1="163" start2="109" end2="112" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="165" end1="166" start2="114" end2="114" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="172" end1="172" start2="120" end2="122" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="173" end1="178" start2="123" end2="125" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="179" end1="188" start2="126" end2="126" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="208" end1="209" start2="146" end2="147" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="213" end1="213" start2="151" end2="201" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="219" end1="242" start2="207" end2="226" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="246" end1="246" start2="230" end2="243" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="253" end1="256" start2="250" end2="250" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="261" end1="261" start2="255" end2="256" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="264" end1="264" start2="259" end2="266" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="269" end1="270" start2="271" end2="272" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="271" end1="275" start2="273" end2="277" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="279" end1="280" start2="281" end2="282" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="281" end1="286" start2="283" end2="284" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="297" end1="303" start2="295" end2="332" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="305" end1="309" start2="334" end2="334" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="321" end1="322" start2="346" end2="346" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="325" end1="326" start2="349" end2="360" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="327" end1="352" start2="361" end2="361" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
+      </ranges>
+    </file>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="1R41BFJ227c4eRFB6LHyiqULz7A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
-    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="diquemc" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../lib" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/hector/projects/diquemc/diquemc-utils",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "ruby.rails.projectView.checked": "true",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.diquemc.GlobalRanks.manager" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/diquemc-utils" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/diquemc-utils/src" />
+      <recent name="$PROJECT_DIR$/diquemc-chat/files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/diquemc-utils/src/main" />
+      <recent name="$PROJECT_DIR$/diquemc-utils/src/resources" />
+      <recent name="$PROJECT_DIR$/plugins" />
+      <recent name="$PROJECT_DIR$/diquemc-jedis/src/main/resources" />
+      <recent name="$PROJECT_DIR$/libraries" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.diquemc.chat.bungee.command" />
@@ -251,39 +244,40 @@
       <recent name="com.diquemc.utils.command" />
       <recent name="com.diquemc.skin.skinfactory" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/diquemc-chat/files" />
-    </key>
   </component>
   <component name="RubyModuleManagerSettings">
     <option name="blackListedRootsPaths">
       <list>
         <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/diquemc-jedis" />
       </list>
     </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
       </list>
     </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
+    <option name="OPEN_GENERIC_TABS">
       <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
+        <entry key="bcf1347e-c739-4a53-91a9-a966fe1483af" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="RECENT_FILTERS">
@@ -295,18 +289,45 @@
         </entry>
         <entry key="User">
           <value>
-            <list />
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/OpenInv" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="bcf1347e-c739-4a53-91a9-a966fe1483af">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Removed unnecesary instance variable" />
-    <MESSAGE value="Updated for 1.15&#10;Refactor to reduce code duplication&#10;Dismounting player on skin change to avoid &quot;xray&quot; effect." />
-    <MESSAGE value="Avoid populating nick when use doesn't have permission for it." />
-    <MESSAGE value="Improved /lobby command to take as params an user or all users" />
     <MESSAGE value="Store player used host to connect as metadata on login" />
     <MESSAGE value="Ping command autocompletes with local players instead of all server players" />
     <MESSAGE value="Dropped 1.14 support in favor of 1.15" />
@@ -319,11 +340,20 @@
     <MESSAGE value="Code cleanup and improvements. Started refactors and inclusion of tempmute function" />
     <MESSAGE value="Refactor: Broadcast" />
     <MESSAGE value="Refactor: chatreload" />
-    <MESSAGE value="Refactor: muteinfo" />
     <MESSAGE value="Refactor: unmutecommand&#10;Moved ChatColor enum to DiqueMCUtils" />
     <MESSAGE value="Refactor: mute&#10;Added tempmutes" />
     <MESSAGE value="openinv" />
-    <option name="LAST_COMMIT_MESSAGE" value="openinv" />
+    <MESSAGE value="Changes for 1.17" />
+    <MESSAGE value="Moved src files to main/java" />
+    <MESSAGE value="Now can compile using maven" />
+    <MESSAGE value="Now the plugin can be built using maven" />
+    <MESSAGE value="Refactor: muteinfo" />
+    <MESSAGE value="- Added maven support&#10;- Compiling jedis plugin using maven" />
+    <MESSAGE value="Adding maven" />
+    <MESSAGE value="Updated to 1.20" />
+    <MESSAGE value="maven" />
+    <MESSAGE value="- Clean unused libraries (now depending on them via maven)&#10;- updated groupId" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Clean unused libraries (now depending on them via maven)&#10;- updated groupId" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
   </component>
   <component name="WindowStateProjectService">
