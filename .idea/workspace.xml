@@ -1,59 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="860ab382-0c2c-4ed8-b179-18fc472e8466" name="maven" comment="maven">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/googlecode_json_simple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/redis_clients_jedis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DiqueMCJedis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DiqueMCJedis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DiqueMCUtils.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DiqueMCUtils.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_pool2_2_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jedis_3_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_25.xml" beforeDir="false" />
+    <list default="true" id="860ab382-0c2c-4ed8-b179-18fc472e8466" name="maven" comment="- Compiling utils plugin using maven">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-jedis" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-jedis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-nick" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-nick" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-nick/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-nick/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diquemc-utils" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/files/bungee.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/resources/bungee.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/files/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/resources/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/files/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/locallib/commons-lang3-3.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/helper/DiqueMCCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/helper/DiqueMCCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/helper/DiqueMCCommandExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/helper/DiqueMCCommandExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/helper/DiqueMCPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/helper/DiqueMCPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/ChatColor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/ChatColor2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/ChatUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/ChatUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/DateUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/DiqueMCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/DiqueMCUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/TableGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/TableGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/bungee/DiqueMCUtilsBungee.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/bungee/DiqueMCUtilsBungee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/BanCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/BanCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/CheckSleepingCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/CheckSleepingCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/ColorsCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/ColorsCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/CommandSyncCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/CommandSyncCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/GSeenCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/GSeenCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/GSeenIPCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/GSeenIPCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/GeneralCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/GeneralCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/ItemInfoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/ItemInfoCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/LinksCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/LinksCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/LobbyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/LobbyCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/PingCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/PingCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SetLoreCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/SetLoreCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SetNameCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/SetNameCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/SignEditCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/SignEditCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/UpdateFirstLoginCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/command/UpdateFirstLoginCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/listener/DeathListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/listener/DeathListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/listener/LoginListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/listener/LoginListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/listener/SignListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/listener/SignListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/CommandSyncManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/manager/CommandSyncManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/PlayerManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/manager/PlayerManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/SignManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/manager/SignManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/manager/TransportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/manager/TransportManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/version/Fallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/version/Fallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/version/VersionsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/version/VersionsHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/version/v1_20_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/com/diquemc/utils/version/v1_20_R3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/me/winterguardian/jsonconverter/JsonConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/me/winterguardian/jsonconverter/JsonConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/src/me/winterguardian/jsonconverter/JsonMessageSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/src/main/java/me/winterguardian/jsonconverter/JsonMessageSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/diquemc-jedis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-jedis.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <list id="cb8949f5-c5c3-4097-b10c-d31234753599" name="Default Changelist" comment="Adding maven">
@@ -140,7 +93,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/diquemc-utils" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/diquemc-nick" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/BanCommand.java" root0="FORCE_HIGHLIGHTING" />
@@ -149,35 +102,16 @@
     <file path="$PROJECT_DIR$/.idea/workspace.xml">
       <ranges>
         <range start1="2" end1="2" start2="2" end2="5" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
-        <range start1="3" end1="41" start2="6" end2="9" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="42" end1="45" start2="10" end2="79" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="46" end1="47" start2="80" end2="80" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="49" end1="69" start2="82" end2="84" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="70" end1="105" start2="85" end2="87" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="106" end1="117" start2="88" end2="88" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="118" end1="121" start2="89" end2="91" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="122" end1="149" start2="92" end2="95" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="163" end1="163" start2="109" end2="112" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="165" end1="166" start2="114" end2="114" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="172" end1="172" start2="120" end2="122" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="173" end1="178" start2="123" end2="125" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="179" end1="188" start2="126" end2="126" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="208" end1="209" start2="146" end2="147" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="213" end1="213" start2="151" end2="201" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="219" end1="242" start2="207" end2="226" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="246" end1="246" start2="230" end2="243" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="253" end1="256" start2="250" end2="250" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="261" end1="261" start2="255" end2="256" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="264" end1="264" start2="259" end2="266" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="269" end1="270" start2="271" end2="272" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="271" end1="275" start2="273" end2="277" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="279" end1="280" start2="281" end2="282" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="281" end1="286" start2="283" end2="284" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="297" end1="303" start2="295" end2="332" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="305" end1="309" start2="334" end2="334" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="321" end1="322" start2="346" end2="346" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="325" end1="326" start2="349" end2="360" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="327" end1="352" start2="361" end2="361" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
+        <range start1="3" end1="11" start2="6" end2="8" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="12" end1="56" start2="9" end2="20" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="142" end1="143" start2="106" end2="107" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="151" end1="180" start2="115" end2="125" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="210" end1="211" start2="155" end2="156" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="227" end1="227" start2="172" end2="173" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="330" end1="333" start2="276" end2="276" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="353" end1="354" start2="296" end2="296" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="355" end1="356" start2="297" end2="302" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="357" end1="382" start2="303" end2="303" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
       </ranges>
     </file>
   </component>
@@ -208,7 +142,7 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/hector/projects/diquemc/diquemc-utils",
+    "last_opened_file_path": "/Users/hector/projects/diquemc/diquemc-nick",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -225,6 +159,7 @@
       <recent name="com.diquemc.GlobalRanks.manager" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/diquemc-nick" />
       <recent name="$PROJECT_DIR$/diquemc-utils" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/diquemc-utils/src" />
@@ -328,9 +263,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Store player used host to connect as metadata on login" />
-    <MESSAGE value="Ping command autocompletes with local players instead of all server players" />
-    <MESSAGE value="Dropped 1.14 support in favor of 1.15" />
     <MESSAGE value="Added item tooltip to versioning fallback" />
     <MESSAGE value="Added more info to gseen.&#10;Listing known players when exact name is not found" />
     <MESSAGE value="Command autocomplete doesn't return full list when no matches are found" />
@@ -351,9 +283,12 @@
     <MESSAGE value="- Added maven support&#10;- Compiling jedis plugin using maven" />
     <MESSAGE value="Adding maven" />
     <MESSAGE value="Updated to 1.20" />
-    <MESSAGE value="maven" />
     <MESSAGE value="- Clean unused libraries (now depending on them via maven)&#10;- updated groupId" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Clean unused libraries (now depending on them via maven)&#10;- updated groupId" />
+    <MESSAGE value="maven" />
+    <MESSAGE value="- Maven config cleanup. Moved some common settings to parent" />
+    <MESSAGE value="- Compiling utils plugin using maven" />
+    <MESSAGE value="Changes to be able to build using maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes to be able to build using maven" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
   </component>
   <component name="WindowStateProjectService">
