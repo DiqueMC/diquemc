@@ -2,3 +2,7 @@ out
 bin
 investigacion
 .DS_Store
+
+/libraries
+/Lands
+/plugins

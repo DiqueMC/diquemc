@@ -1,0 +1,42 @@
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.diquemc</groupId>
+    <artifactId>diquemc-parent</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>DiqueMC-Parent</name>
+    <description>Parent project for all DiqueMC modules.</description>
+    <url>https://diquemc.com</url>
+    <inceptionYear>2014</inceptionYear>
+    <organization>
+        <name>DiqueMC</name>
+        <url>https://diquemc.com/S</url>
+    </organization>
+
+    <developers>
+        <developer>
+            <id>hector.romero</id>
+        </developer>
+    </developers>
+
+    <modules>
+        <module>diquemc-jedis</module>
+    </modules>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>2.3.1</version>
+                <configuration>
+                    <outputDirectory>../plugins</outputDirectory>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

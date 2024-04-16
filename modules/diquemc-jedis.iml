@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>BUNGEECORD</platformType>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+        <projectReimportVersion>1</projectReimportVersion>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../diquemc-jedis">
-      <sourceFolder url="file://$MODULE_DIR$/../diquemc-jedis/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../diquemc-jedis/compiledlib" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../diquemc-jedis/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="jedis-3.1.0" level="project" />
-    <orderEntry type="library" name="BungeeCord" level="project" />
     <orderEntry type="library" name="slf4j-api-1.7.25" level="project" />
     <orderEntry type="library" name="commons-pool2-2.6.2" level="project" />
-    <orderEntry type="library" name="spigot-latest" level="project" />
+    <orderEntry type="library" name="BungeeCord" level="project" />
+    <orderEntry type="library" name="paper-mojmap-1.20.4-484" level="project" />
+    <orderEntry type="library" name="paper-1.20.4-484" level="project" />
+    <orderEntry type="library" name="spigot-api-1.20.4-R0.1-SNAPSHOT-shaded" level="project" />
   </component>
 </module>

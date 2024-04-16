@@ -3,8 +3,8 @@
     <output-path>$PROJECT_DIR$/bin</output-path>
     <root id="archive" name="DiqueMCJedis.jar">
       <element id="module-output" name="diquemc-jedis" />
-      <element id="file-copy" path="$PROJECT_DIR$/diquemc-jedis/bungee.yml" />
-      <element id="file-copy" path="$PROJECT_DIR$/diquemc-jedis/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/diquemc-jedis/src/main/resources/bungee.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/diquemc-jedis/src/main/resources/plugin.yml" />
       <element id="extracted-dir" path="$PROJECT_DIR$/diquemc-jedis/lib/jedis-3.1.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/diquemc-jedis/lib/slf4j-api-1.7.25.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/diquemc-jedis/lib/commons-pool2-2.6.2.jar" path-in-jar="/" />
