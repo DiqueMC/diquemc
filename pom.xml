@@ -30,6 +30,7 @@
         <module>diquemc-nick</module>
         <module>diquemc-imagemaps</module>
         <module>diquemc-titlemanager</module>
+        <module>global-ranks</module>
     </modules>
     <build>
         <defaultGoal>clean package</defaultGoal>
@@ -80,6 +81,7 @@
                 <type>javadoc</type>
                 <scope>provided</scope>
             </dependency>
+
             <dependency>
                 <groupId>com.diquemc</groupId>
                 <artifactId>diquemc-jedis</artifactId>

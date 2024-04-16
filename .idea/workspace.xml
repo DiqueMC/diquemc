@@ -1,22 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="860ab382-0c2c-4ed8-b179-18fc472e8466" name="maven" comment="- Compiling imagemaps plugin using maven">
-      <change afterPath="$PROJECT_DIR$/diquemc-titlemanager/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DiqueMCTitleManager.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DiqueMCTitleManager.xml" afterDir="false" />
+    <list default="true" id="860ab382-0c2c-4ed8-b179-18fc472e8466" name="maven" comment="- Compiling titlemanager plugin using maven">
+      <change afterPath="$PROJECT_DIR$/global-ranks/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/GlobalRanks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/GlobalRanks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-nick/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-nick/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/resources/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/TitleManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/TitleManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/commands/GeneralCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/commands/GeneralCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/commands/TitleCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/commands/TitleCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/listeners/LoginListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/listeners/LoginListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/listeners/RedisListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/listeners/RedisListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/versions/ComponentsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/versions/ComponentsHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/src/com/diquemc/titlemanager/versions/NewComponentsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/src/main/java/com/diquemc/titlemanager/versions/NewComponentsHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diquemc-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-utils/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-imagemaps/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-imagemaps/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diquemc-titlemanager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-titlemanager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/GlobalConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/GlobalConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/GlobalRanks.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/GlobalRanks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/PlayerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/PlayerListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/PlayerRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/PlayerRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/Rank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/GetRankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/command/GetRankCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/MainCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/command/MainCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/MyRankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/command/MyRankCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/RemoveRankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/command/RemoveRankCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/SetRankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/command/SetRankCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/databases/MySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/databases/MySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/databases/SQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/databases/SQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/databases/SQLite.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/databases/SQLite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/manager/RankManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/manager/RankManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/manager/SyncRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/main/java/com/diquemc/GlobalRanks/manager/SyncRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/diquemc-titlemanager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-titlemanager.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <list id="cb8949f5-c5c3-4097-b10c-d31234753599" name="Default Changelist" comment="Adding maven">
@@ -48,27 +60,11 @@
       <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/SkinFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/SkinFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_16_R3.java" beforeDir="false" afterPath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_20_R3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/diquemc-skin/src/com/diquemc/skin/skinfactory/v1_8_R3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/GlobalConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/GlobalConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/GlobalRanks.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/GlobalRanks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/PlayerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/PlayerListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/PlayerRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/PlayerRank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/Rank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/GetRankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/GetRankCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/MainCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/MainCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/MyRankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/MyRankCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/RemoveRankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/RemoveRankCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/SetRankCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/command/SetRankCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/manager/RankManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/manager/RankManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global-ranks/src/com/diquemc/GlobalRanks/utils/DateUtil.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/OpenInv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/OpenInv.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/auctions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/auctions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/chairs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/chairs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-chat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-chat.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-skin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-skin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/diquemc-titlemanager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-titlemanager.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc-votes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc-votes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/diquemc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/diquemc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/fanciful.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/fanciful.iml" afterDir="false" />
@@ -97,7 +93,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/diquemc-imagemaps" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/global-ranks" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/diquemc-utils/src/com/diquemc/utils/command/BanCommand.java" root0="FORCE_HIGHLIGHTING" />
@@ -106,23 +102,25 @@
     <file path="$PROJECT_DIR$/.idea/workspace.xml">
       <ranges>
         <range start1="2" end1="2" start2="2" end2="5" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
-        <range start1="3" end1="7" start2="6" end2="9" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="8" end1="17" start2="10" end2="22" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="48" end1="51" start2="53" end2="53" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="70" end1="71" start2="72" end2="72" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="110" end1="126" start2="111" end2="129" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="156" end1="157" start2="159" end2="160" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="160" end1="161" start2="163" end2="164" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="173" end1="173" start2="176" end2="177" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="177" end1="178" start2="181" end2="181" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="180" end1="180" start2="183" end2="184" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="184" end1="185" start2="188" end2="188" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="277" end1="279" start2="280" end2="280" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="293" end1="294" start2="294" end2="294" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="298" end1="299" start2="298" end2="298" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="301" end1="301" start2="300" end2="301" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="302" end1="303" start2="302" end2="306" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
-        <range start1="304" end1="329" start2="307" end2="307" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
+        <range start1="3" end1="6" start2="6" end2="9" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="7" end1="19" start2="10" end2="34" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="50" end1="65" start2="65" end2="65" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="70" end1="71" start2="70" end2="70" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="99" end1="100" start2="98" end2="99" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="108" end1="125" start2="107" end2="126" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="155" end1="156" start2="156" end2="157" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="159" end1="160" start2="160" end2="161" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="172" end1="172" start2="173" end2="174" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="176" end1="177" start2="178" end2="178" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="179" end1="179" start2="180" end2="182" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="182" end1="184" start2="185" end2="185" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="276" end1="278" start2="277" end2="277" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="293" end1="294" start2="292" end2="292" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="296" end1="297" start2="294" end2="294" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="298" end1="298" start2="295" end2="298" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="299" end1="299" start2="299" end2="300" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="300" end1="302" start2="301" end2="303" changelist="860ab382-0c2c-4ed8-b179-18fc472e8466" />
+        <range start1="303" end1="328" start2="304" end2="304" changelist="cb8949f5-c5c3-4097-b10c-d31234753599" />
       </ranges>
     </file>
   </component>
@@ -153,11 +151,11 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/hector/projects/diquemc/diquemc-titlemanager",
+    "last_opened_file_path": "/Users/hector/projects/diquemc/global-ranks",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "ruby.rails.projectView.checked": "true",
@@ -170,18 +168,18 @@
       <recent name="com.diquemc.GlobalRanks.manager" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/global-ranks" />
       <recent name="$PROJECT_DIR$/diquemc-titlemanager" />
       <recent name="$PROJECT_DIR$/diquemc-imagemaps" />
       <recent name="$PROJECT_DIR$/diquemc-nick" />
       <recent name="$PROJECT_DIR$/diquemc-utils" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/global-ranks/src/main/resources" />
+      <recent name="$PROJECT_DIR$/global-ranks/src/main/java" />
       <recent name="$PROJECT_DIR$/diquemc-titlemanager/src/main" />
       <recent name="$PROJECT_DIR$/diquemc-imagemaps/src/main/resources" />
       <recent name="$PROJECT_DIR$/diquemc-utils/src/main" />
-      <recent name="$PROJECT_DIR$/diquemc-utils/src/resources" />
-      <recent name="$PROJECT_DIR$/plugins" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.diquemc.chat.bungee.command" />
@@ -274,8 +272,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I guess, there're changes" />
-    <MESSAGE value="Added child permission for admin to have nick.&#10;Changed how a sample nick is shown" />
     <MESSAGE value="Code cleanup and improvements. Started refactors and inclusion of tempmute function" />
     <MESSAGE value="Refactor: Broadcast" />
     <MESSAGE value="Refactor: chatreload" />
@@ -291,15 +287,17 @@
     <MESSAGE value="Updated to 1.20" />
     <MESSAGE value="- Clean unused libraries (now depending on them via maven)&#10;- updated groupId" />
     <MESSAGE value="maven" />
-    <MESSAGE value="- Maven config cleanup. Moved some common settings to parent" />
     <MESSAGE value="Updated gitignore" />
     <MESSAGE value="- Compiling utils plugin using maven" />
-    <MESSAGE value="Changes to be able to build using maven" />
     <MESSAGE value="- Compiling nick plugin using maven" />
-    <MESSAGE value="- Compiling imagemaps plugin using maven" />
-    <MESSAGE value="Adding maven" />
     <MESSAGE value="- Removed OldComponentsHandler" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Removed OldComponentsHandler" />
+    <MESSAGE value="- Maven config cleanup. Moved some common settings to parent" />
+    <MESSAGE value="Changes to be able to build using maven" />
+    <MESSAGE value="- Compiling imagemaps plugin using maven" />
+    <MESSAGE value="- Compiling titlemanager plugin using maven" />
+    <MESSAGE value="Adding maven" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
   </component>
   <component name="WindowStateProjectService">
