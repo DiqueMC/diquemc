@@ -24,6 +24,12 @@
         </developer>
     </developers>
 
+    <properties>
+        <maven.compiler.release>17</maven.compiler.release>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
+
     <modules>
         <module>diquemc-jedis</module>
         <module>diquemc-utils</module>
@@ -36,6 +42,7 @@
         <module>diquemc-chat</module>
         <module>sign-logger</module>
         <module>auctions</module>
+        <module>easy-plant</module>
     </modules>
     <build>
         <defaultGoal>clean package</defaultGoal>

@@ -40,3 +40,6 @@
 [submodule "chairs"]
 	path = chairs
 	url = git@bitbucket.org:hector22x/chairs.git
+[submodule "easy-plant"]
+	path = easy-plant
+	url = git@bitbucket.org:diquemc/easy-plant.git
