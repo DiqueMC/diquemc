@@ -1,9 +1,9 @@
 [submodule "diquemc-utils"]
     path = diquemc-utils
-    url = git@bitbucket.org:hector22x/diquemc-utils.git
+    url = git@bitbucket.org:diquemc/diquemc-utils.git
 [submodule "diquemc-jedis"]
     path = diquemc-jedis
-    url = git@bitbucket.org:hector22x/diquemc-jedis.git
+    url = git@bitbucket.org:diquemc/diquemc-jedis.git
 [submodule "diquemc-nick"]
     path = diquemc-nick
     url = git@bitbucket.org:diquemc/diquemc-nick.git
